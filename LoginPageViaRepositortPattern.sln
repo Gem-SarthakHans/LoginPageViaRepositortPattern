@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginPageViaRepositortPattern", "LoginPageViaRepositortPattern\LoginPageViaRepositortPattern.csproj", "{2DBD1C11-4CBB-4A54-89F3-23B24674C722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBD1C11-4CBB-4A54-89F3-23B24674C722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBD1C11-4CBB-4A54-89F3-23B24674C722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBD1C11-4CBB-4A54-89F3-23B24674C722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBD1C11-4CBB-4A54-89F3-23B24674C722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B927262-0745-4DFB-9BB9-E9D5C965D9DA}
+	EndGlobalSection
+EndGlobal
